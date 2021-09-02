@@ -1,11 +1,3 @@
-### Hi there 👋
-##
-
-<br>
-
-- 🚀 I have knowledge in the following technologies TypeScript, Node.JS, JavaScript
-
-<br>
 
 <div align="center">
   <a href="https://github.com/DouglasSoares16">
