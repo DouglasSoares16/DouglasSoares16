@@ -2,6 +2,7 @@
       name: "Douglas",
       course: "I'm studying Ignite Pro from the Rocketseat"
       programIn: "TypeScript",
+      interestIn: "ReactJS",
       toolsIUse: "TypeOrm, JWT and Bcrypt.js",
       favoriteGame: "Minecraft",
       serversWhereIPlay: "YoloMC, MushMC and FlameMC"
