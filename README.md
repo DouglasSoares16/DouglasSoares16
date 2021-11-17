@@ -2,10 +2,8 @@
       name: "Douglas",
       course: "I'm studying Ignite Pro from the Rocketseat"
       programIn: "TypeScript",
-      interestIn: "ReactJS",
-      toolsIUse: "TypeOrm, JWT and Bcrypt.js",
-      favoriteGame: "Minecraft",
-      serversWhereIPlay: "YoloMC, MushMC and FlameMC"
+      toolsIUse: "TypeOrm",
+      interestIn: "ReactJS"
 	}
 
 I'm currently studying at Ignite Pro, a program created to accelerate your career as a Dev, in addition to preparing devs for the market focusing on a stack and developing technical and behavioral skills.
