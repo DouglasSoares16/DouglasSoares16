@@ -1,6 +1,6 @@
     let bio = {
       name: "Douglas",
-      course: "I'm studying Ignite Pro from the Rocketseat"
+      course: "I'm studying Ignite Pro from the Rocketseat",
       programIn: "TypeScript",
       toolsIUse: "TypeOrm",
       interestIn: "ReactJS"
