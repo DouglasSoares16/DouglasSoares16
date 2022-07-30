@@ -1,11 +1,19 @@
 
-<div align="center">
-	
-![minecraft-lofi](https://user-images.githubusercontent.com/88446498/174677250-177762fc-4550-4efe-8279-a8508e05ab89.gif)
-	
-</div>
+## Hi! ☕  
+  
 
-I'm currently studying at Ignite Pro, a program created to accelerate your career as a Dev, in addition to preparing devs for the market focusing on a stack and developing technical and behavioral skills.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/88446498/174677250-177762fc-4550-4efe-8279-a8508e05ab89.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Douglas, I'm Fullstack Developer (Node & React)</div>  
+  
+
+<br/>  
+
+
+## My Skill Set
 
 <div align="center">
  	
